@@ -39,3 +39,4 @@ print(numpy.linalg.inv(l1))
 
 
 ## RESULT:
+Thus a program is written to find the inverse of the matrix.
